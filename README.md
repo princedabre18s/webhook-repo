@@ -204,3 +204,5 @@ This project is created for the TechStax Developer Assessment Task.
 ## 👨‍💻 Author
 
 Created with ❤️ for the TechStax assignment - showcasing Flask, MongoDB, and real-time web development skills!
+Flask application to receive and process GitHub webhooks
+>>>>>>> 3228341d37b13c975394a3cf93ef5b1b6037c139
